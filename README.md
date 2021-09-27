@@ -25,3 +25,6 @@ Automate:
 What tools would you use?
 
 -Many tools could be used for API testing. Most popular ones are Postman, Insomnia, JMeter, VSCode. For automation of API tests I would use Java Rest Assured library.
+
+To Run Test File:
+-Clone repository in your local (or download teh jmx file). Load the jmx file to Jmeter applicaton and run. 
